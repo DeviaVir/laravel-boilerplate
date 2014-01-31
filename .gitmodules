@@ -1,0 +1,3 @@
+[submodule "public_html"]
+	path = public_html
+	url = https://github.com/DeviaVir/boilerplate.git
